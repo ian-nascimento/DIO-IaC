@@ -10,6 +10,14 @@
 - Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertecem;
 - Subir arquivo de script criado para o GitHub;
 
+## provision-web-server.sh:
+
+- Atualizar o servidor;
+- Instalar os pacotes Apache e Unzip;
+- Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
+- Copiar os arquivos da aplicação no diretório padrão do apache;
+- Subir arquivo de script para um repositório no GitHub.
+
 # Ambiente de testes com Vagrant
 
 O Vagrant é utilizado neste projeto para subir uma máquina virtual local e temporária para testar os scripts criados.
