@@ -1,6 +1,6 @@
 #!/bin/bash
 #------------------------------------------------------------------------------------------------------
-# create-permissions-structure.sh - Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+# create-users-groups-and-permissions.sh - Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 #
 # Autor: Ian Nascimento
 #------------------------------------------------------------------------------------------------------

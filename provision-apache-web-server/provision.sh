@@ -1,6 +1,6 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------
-# provision-web-server.sh - Script de Provisionamento de um Servidor Web com Apache
+# provision.sh - Script de Provisionamento de um Servidor Web com Apache
 #
 # Autor: Ian Nascimento
 #----------------------------------------------------------------------------------
